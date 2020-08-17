@@ -20,7 +20,7 @@
       > Python, R, PowerBi, Excel-PowerQuery
     * [Administrador de Redes](https://www.linkedin.com/learning/paths/conviertete-en-administrador-de-redes)
       > Azure, Windows
-  * Ingles :en:
+  * Ingles :us:
     * [Web-Fullstack](https://www.linkedin.com/learning/paths/become-a-software-developer)
       <img src="https://i.pinimg.com/originals/98/4d/22/984d22fce5cae2c01473f4abe8063fd1.png" height="18"/><img src="https://i.pinimg.com/originals/98/4d/22/984d22fce5cae2c01473f4abe8063fd1.png" height="18"/>
       > Javascript, Java, Python, HTML, CSS, C#, Git, Scrum
@@ -29,6 +29,13 @@
     * [Administrador de Redes](https://www.linkedin.com/learning/paths/prepare-for-the-comptia-network-plus-n10-007-certification)
       > NetWorks 
 
+</details>
+
+## Cobol
+
+<details>
+ <summary><b>Open Main Frame Proyect</b></summary>
+ * [Cobol Programing course](https://github.com/openmainframeproject/cobol-programming-course)
 </details>
 
 ## Javascript

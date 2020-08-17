@@ -35,7 +35,9 @@
 
 <details>
  <summary><b>Open Main Frame Proyect</b></summary>
+ 
  * [Cobol Programing course](https://github.com/openmainframeproject/cobol-programming-course)
+ 
 </details>
 
 ## Javascript
@@ -48,7 +50,37 @@
 ## Python
 
 <details>
- <summary><b>  </b></summary>
+ <summary><b>Jovian</b> - Data Science</summary>
+ 
+  * [Basic Python for Data Science](https://jovian.ml/learn/data-analysis-with-python-zero-to-pandas)
+    > Python, numPy, matplotLib, Pandas
+  * [Others](https://jovian.ml/learn)
+
+</details>
+
+<details>
+ <summary><b>CS50</b> - Web</summary>
+ 
+  * [Web Programming with Python](https://www.edx.org/es/course/cs50s-web-programming-with-python-and-javascript)
+    > Python, Django
+
+</details>
+
+<details>
+ <summary><b>Coursera</b> - Analyst</summary>
+ 
+  * [IBM - Data Science with Python](https://www.coursera.org/learn/python-for-applied-data-science-ai)
+    > Python
+  * [Google - Automation](https://www.coursera.org/professional-certificates/google-it-automation)
+    > Python
+
+</details>
+
+<details>
+ <summary><b>PY4E</b> - Basic</summary>
+ 
+  * [Python for Everybody](https://www.py4e.com/lessons?fbclid=IwAR31kACaVpRpWsKIjDmfkjuLkt-TDNFfAONJDrsp4Wog6rNf0xeS3nnhGno)
+    > Python
 
 </details>
 

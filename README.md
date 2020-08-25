@@ -88,6 +88,7 @@
 
 <details>
  <summary><b>Official</b></summary>
+
   * [Training](https://www.aws.training/)
     > Lambda, S3, EC2, SQS, Dynamo, VPC, etc
 
